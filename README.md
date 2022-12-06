@@ -2,7 +2,7 @@
 - 👀 I'm interested in front-end development
 - 🌱 I’m currently learning how to create applications
 - 💞️ I’m looking forward to collaborate
-- 📫 fupi018@gmail.com | @xoxexxx
+- 📫 fupi018@gmail.com | [@xoxexxx](https://t.me/xoxexxx)
 
 ![frontend](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8716EamJ8FHGWBGlD7j55g_T_2mUvxJwbjmvIQjnzYA&s)
 
