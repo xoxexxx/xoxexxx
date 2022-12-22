@@ -6,9 +6,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxexxx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/xoxexxx)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxexxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 xoxexxx/xoxexxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
