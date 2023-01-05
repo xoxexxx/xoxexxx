@@ -1,10 +1,9 @@
 - 👋 Hi, I’m ILYA
-- 👀 I'm interested in front-end development
 - 🌱 I’m currently learning how to create applications
 - 💞️ I’m looking forward to collaborate
 - 📫 fupi018@gmail.com | [@xoxexxx](https://t.me/xoxexxx)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=front-end+development)](https://git.io/typing-svg)
 
 
 
